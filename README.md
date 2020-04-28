@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+## IEEE Cluster 2020 Workshop - 14th Sep
 
-You can use the [editor on GitHub](https://github.com/arm-hpc/IEEECluster2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The IEEE Cluster workshop will be hosted this year between the 14th and 17th of September. The current plan is to go ahead with hosting it in Kobe, Japan. However, due to COVID-19, it is possible that the conference will be hosted virtually, including the workshops.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Embracing Arm: a journey of porting and optimization to the latest Arm-based processors
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+As part of the IEEE Cluster conference we will host a 1/2 day Arm workshop on evaluating emerging, server-class, Arm technology.
 
-```markdown
-Syntax highlighted code block
+#### Abstract
+This workshop focuses on the porting and optimization of scientific and high-performance workloads to the Arm architecture. The last few years have seen an explosion of 64-bit Arm based processors targeted towards server and infrastructure workloads – often with a specialization towards a specific domain – such as HPC, cloud and machine learning.
 
-# Header 1
-## Header 2
-### Header 3
+Arm’s new Neoverse reference N1 core design has become the foundation for a number of emerging processors such as Amazon’s 64-core Graviton2 and Ampere’s 80-core Altra, with the EPI project incorporating the successor design into SiPearl’s Rhea chip. Further, architecture licenses are being exploited to design and manufacture bespoke solutions such as Marvell’s ThunderX line of processors and Fujitsu’s A64FX chip.
 
-- Bulleted
-- List
+One of the most important additions to the Arm instruction set has been SVE – the Scalable Vector Extension – an architectural extension containing a comprehensive set of vector length agnostic vectorization instructions. Making its debut in the A64FX processor, these vector instructions present a paradigm shift for application developers.
 
-1. Numbered
-2. List
+In this workshop we invite papers on the porting and, if available, optimization of high-performance workloads to this new generation of Arm-based processors. We welcome performance optimization studies either through access to real hardware or via simulation/emulation frameworks, for both SVE and otherwise.
 
-**Bold** and _Italic_ and `Code` text
+Content specifically focuses on HPC, Edge, and everything in between. Specifically, we will include talks related to applications and cross-over/emerging application areas such as machine learning, deep learning, bioinformatics, and analytics; all on Arm-compatible platforms.
 
-[Link](url) and ![Image](src)
-```
+This workshop is closely related to the series of workshops organized at ISC, SC and the Arm Research Summit, the Arm HPC User’s Group (AHUG).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+#### Keywords
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arm-hpc/IEEECluster2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+* Data, Storage & Visualization
+* HPC Applications
+* Performance Analysis
+* SVE Vectorisation analysis
+* Programming Models & Systems Software
+* Artificial Intelligence and Machine Learning
+* Performance Modeling & Measurement
+* Emerging Technologies
 
-### Support or Contact
+### Submission
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+We will shortly be opening submission for papers.
+
+#### Full Papers
+
+We invite the submission of full 8-page IEEE papers for presentation.
+Deadline: TBC
+
+#### Short Papers: Late Breaking Results
+
+We will also facilitate the submission of short papers based on late breaking results.
+Deadline: TBC
+
+
+### Organizors
+
+* Dr. Olly Perks (Arm)
+* Dr. John Linford (Arm)
+* Ms. Roxana Rusitoru (Arm)
+* Dr. Shinji Sumimoto (Fujitsu)
+* Prof. Mitsuhisa Sato (RIKEN)
+
+#### Contact
+Olly Perks (olly.perks@arm.com)
