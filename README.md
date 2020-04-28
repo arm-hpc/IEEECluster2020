@@ -5,7 +5,7 @@ The IEEE Cluster workshop will be hosted this year between the 14th and 17th of 
 
 ### Embracing Arm: a journey of porting and optimization to the latest Arm-based processors
 
-As part of the IEEE Cluster conference we will host a 1/2 day Arm workshop on evaluating emerging, server-class, Arm technology.
+As part of the [IEEE Cluster 2020](https://clustercomp.org/2020/) conference we will host a 1/2 day Arm workshop on evaluating emerging, server-class, Arm technology.
 
 #### Abstract
 This workshop focuses on the porting and optimization of scientific and high-performance workloads to the Arm architecture. The last few years have seen an explosion of 64-bit Arm based processors targeted towards server and infrastructure workloads – often with a specialization towards a specific domain – such as HPC, cloud and machine learning.
@@ -39,11 +39,13 @@ We will shortly be opening submission for papers.
 #### Full Papers
 
 We invite the submission of full 8-page IEEE papers for presentation.
+
 Deadline: TBC
 
 #### Short Papers: Late Breaking Results
 
 We will also facilitate the submission of short papers based on late breaking results.
+
 Deadline: TBC
 
 
