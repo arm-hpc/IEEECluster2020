@@ -36,18 +36,18 @@ This workshop is closely related to the series of workshops organized at ISC, SC
 
 We will shortly be opening submission for papers.
 
-#### Full Papers
+Accepted papers will be included in the IEEE Cluster 2020 conference proceedings.
 
-We invite the submission of full 8-page IEEE papers for presentation.
+All submissions must be made in [IEEE Format](https://www.ieee.org/conferences/publishing/templates.html). 
 
-Deadline: TBC
+* Full Papers: 8 pages (+ 2 additional pages)
+* Short Papers: 4 pages (+ 1 additional page)
 
-#### Short Papers: Late Breaking Results
+#### Dates
 
-We will also facilitate the submission of short papers based on late breaking results.
-
-Deadline: TBC
-
+* Submission Deadline: 13th July (AoE)
+* Author Notification: 3rd August (AoE)
+* Camera Ready: 14th August (AoE)
 
 ### Organizors
 
