@@ -46,7 +46,7 @@ All submissions must be made in [IEEE Format](https://www.ieee.org/conferences/p
 * Author Notification: 3rd August (AoE)
 * Camera Ready: 14th August (AoE)
 
-## Organizors
+## Organizers
 
 * Dr. Olly Perks (Arm)
 * Dr. John Linford (Arm)
