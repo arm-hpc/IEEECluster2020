@@ -32,7 +32,7 @@ This workshop is closely related to the series of workshops organized at ISC, SC
 ## Submission
 
 
-Submissions will be taken through EasyChair at the following link: [EAHPC-2020](https://easychair.org/conferences/submission_new?a=24642655).
+Submissions will be taken through EasyChair at the following link: [EAHPC-2020](https://easychair.org/conferences/?conf=eahpc2020).
 
 Accepted papers will be included in the IEEE Cluster 2020 conference proceedings.
 
