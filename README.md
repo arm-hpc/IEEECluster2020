@@ -1,3 +1,5 @@
+## EAHPC-2020 - Embracing Arm: a journey of porting and optimization to the latest Arm-based processors
+
 ## Update: Deadline Extension
 
 The submission deadline has been extended by 1 week. Submission is now due 20th July Anywhere on Earth (AoE).
@@ -6,8 +8,6 @@ Submissions via EasyChair [EAHPC-2020](https://easychair.org/conferences/?conf=e
 
 Due to COVID-19 this workshow will be hosted virtually.
 
-
-## EAHPC-2020 - Embracing Arm: a journey of porting and optimization to the latest Arm-based processors
 
 As part of the [IEEE Cluster 2020](https://clustercomp.org/2020/) conference we will host a 1/2 day Arm workshop on evaluating emerging, server-class, Arm technology.
 
