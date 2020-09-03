@@ -1,5 +1,26 @@
 ## EAHPC-2020 - Embracing Arm: a journey of porting and optimization to the latest Arm-based processors
 
+## Event agenda
+
+EAHPC-2020 will be running as a live, recorded event. Further details on the availability of the recordings will be provided at a later time.
+
+### Agenda (Times in GMT+1). 
+
+Time | Title | Speaker
+-----|-------|---------
+08:00 – 08:10 | Organizer's introduction | 
+08:10 – 08:30 | Investigating applications on the A64FX | Adrian Jackson
+08:30 – 08:50 | Preliminary Performance Evaluation of the Fujitsu A64FX Using HPC Applications | Tetsuya Odajima
+08:50 – 09:10 | The Effects of Wide Vector Operations on Processor Caches | Andrei Poenaru
+09:10 – 09:20 | Short break | 
+09:20  - 09:30 | On the usage of the Arm C Language Extensions for a High-Order Finite-Element Kernel | Guillaume Quintin
+09:30 – 09:50 | Porting Applications to Arm-based Processors | Dirk Pleiter
+09:50 – 10:10 | CoreNEURON: performance and energy efficiency evaluation on Intel and Arm CPUs | Joel Criado
+10:10 – 10:30 | Performance evaluation of ParalleX execution model on Arm-based Platforms | Nikunj Gupta
+10:30 – 10:35 | Short break | 
+10:35 - 11:00 | Discussions/Q&A/Concluding remarks |
+
+
 ## Update: Deadline Extension
 
 The submission deadline has been extended by 1 week. Submission is now due 20th July Anywhere on Earth (AoE).
