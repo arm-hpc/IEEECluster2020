@@ -91,4 +91,5 @@ All submissions must be made in [IEEE Format](https://www.ieee.org/conferences/p
 * Prof. Mitsuhisa Sato (RIKEN)
 
 ### Contact
-Olly Perks (olly.perks@arm.com)
+John Linford (john.linford@arm.com)
+
