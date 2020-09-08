@@ -1,5 +1,9 @@
 ## EAHPC-2020 - Embracing Arm: a journey of porting and optimization to the latest Arm-based processors
 
+# Registration
+
+[Registration is **free** and open to all.  Please click here to register](https://www.cvent.com/d/d7q0l9)
+
 ## Event agenda
 
 EAHPC-2020 will be running as a live, recorded event. The dial-in details are being passed separately through the IEEE Cluster conference to registered attendees. 
