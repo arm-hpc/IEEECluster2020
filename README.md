@@ -6,7 +6,7 @@
 
 ## Event agenda
 
-EAHPC-2020 will be running as a live, recorded event. The dial-in details are being passed separately through the IEEE Cluster conference to registered attendees. 
+EAHPC-2020 will be running as a live, recorded event on **Monday 14 September 2020**. The dial-in details will be provided via the IEEE Cluster conference to registered attendees.
 
 ### Agenda (Times in GMT+1). 
 
@@ -78,9 +78,9 @@ All submissions must be made in [IEEE Format](https://www.ieee.org/conferences/p
 ### Dates
 
 * ~~Submission Deadline: 13th July (AoE)~~
-* Extended Submission Deadline: 20th July (AoE)
-* Author Notification: 3rd August (AoE)
-* Camera Ready: 14th August (AoE)
+* ~~Extended Submission Deadline: 20th July (AoE)~~
+* ~~Author Notification: 3rd August (AoE)~~
+* ~~Camera Ready: 14th August (AoE)~~
 
 ## Organizers
 
