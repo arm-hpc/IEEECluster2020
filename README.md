@@ -2,7 +2,7 @@
 
 ## Event agenda
 
-EAHPC-2020 will be running as a live, recorded event. Further details on the availability of the recordings will be provided at a later time.
+EAHPC-2020 will be running as a live, recorded event. The dial-in details are being passed separately through the IEEE Cluster conference to registered attendees. 
 
 ### Agenda (Times in GMT+1). 
 
@@ -14,7 +14,7 @@ Time | Title | Speaker
 08:50 – 09:10 | The Effects of Wide Vector Operations on Processor Caches | Andrei Poenaru
 09:10 – 09:20 | Short break | 
 09:20  - 09:30 | On the usage of the Arm C Language Extensions for a High-Order Finite-Element Kernel | Guillaume Quintin
-09:30 – 09:50 | Porting Applications to Arm-based Processors | Dirk Pleiter
+09:30 – 09:50 | Porting Applications to Arm-based Processors | Bine Brank
 09:50 – 10:10 | CoreNEURON: performance and energy efficiency evaluation on Intel and Arm CPUs | Joel Criado
 10:10 – 10:30 | Performance evaluation of ParalleX execution model on Arm-based Platforms | Nikunj Gupta
 10:30 – 10:35 | Short break | 
